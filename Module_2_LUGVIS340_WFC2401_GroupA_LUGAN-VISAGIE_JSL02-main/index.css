@@ -52,6 +52,7 @@ input[type="text"] {
     padding: 10px;
     background-color: #ffffff;
     color: #333;
+    text-transform: uppercase;
 }
 
 ul {
